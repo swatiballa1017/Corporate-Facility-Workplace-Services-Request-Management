@@ -108,8 +108,6 @@ ServiceNow Administrator & Developer
 3+ Years Experience
 ---
 
-## ⭐ If you are a recruiter or interviewer
-
 This project represents a real-world enterprise implementation focused on architecture, automation, and platform best practices rather than basic form customization.
 
 ---
