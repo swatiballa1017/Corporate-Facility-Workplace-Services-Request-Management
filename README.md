@@ -103,7 +103,7 @@ Requests can also be created via Import Sets while still enforcing Data Policies
 
 ## 👤 Author
 
-**Swati Balla**  
+Swati Balla 
 ServiceNow Administrator & Developer  
 3+ Years Experience
 ---
